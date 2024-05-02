@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/YieldLang/organization/main/logo/rect-logo/logo.min.svg#gh-dark-mode-only" alt="YieldLang LOGO" width="38.2%"/>
+
+<img src="https://raw.githubusercontent.com/YieldLang/organization/main/logo/rect-logo/logo.min.svg#gh-light-mode-only" alt="YieldLang LOGO" width="38.2%"/>
+</p>
+
 ## Hi there 👋
 
 This is the GitHub home page for the YieldLang organization.
