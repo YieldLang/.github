@@ -4,9 +4,11 @@
 <img src="https://raw.githubusercontent.com/YieldLang/organization/main/logo/rect-logo/logo.min.svg#gh-light-mode-only" alt="YieldLang LOGO" width="38.2%"/>
 </p>
 
-## Hi there 👋
+# Hi there 👋 [Read the docs → <a href="https://docs.yieldlang.com/"><img alt="Documentation" src="https://readthedocs.org/projects/yieldlang/badge/?version=latest"/></a>](https://docs.yieldlang.com/)
 
 This is the GitHub home page for the YieldLang organization.
+
+- Main Github repository: https://github.com/YieldLang/yieldlang
 
 <!--
 
