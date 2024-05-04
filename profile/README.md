@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
 <img src="https://raw.githubusercontent.com/YieldLang/organization/main/logo/rect-logo/logo.min.svg#gh-dark-mode-only" alt="YieldLang LOGO" width="38.2%"/>
 
 <img src="https://raw.githubusercontent.com/YieldLang/organization/main/logo/rect-logo/logo.min.svg#gh-light-mode-only" alt="YieldLang LOGO" width="38.2%"/>
-</p>
+</h1>
 
 <p align="center">
   <a href="https://github.com/YieldLang/yieldlang/actions"><img alt="GitHub Actions Workflow Status" src="https://github.com/yieldlang/yieldlang/actions/workflows/main.yml/badge.svg"/></a>
