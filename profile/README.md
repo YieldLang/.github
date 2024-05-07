@@ -15,7 +15,7 @@
 ## [Read the docs](https://docs.yieldlang.com/)
 
 This is the GitHub home page for the YieldLang organization.
-- Main repository: https://github.com/YieldLang/yieldlang
+- Main repository: [github.com/YieldLang/yieldlang](https://github.com/YieldLang/yieldlang)
 
 <!--
 
